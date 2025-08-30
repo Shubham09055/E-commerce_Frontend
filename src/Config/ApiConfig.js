@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // export const API_BASE_URL = "http://localhost:5454";
-export const API_BASE_URL="ecommercebackend-production-5dab.up.railway.app"
+export const API_BASE_URL="https://ecommercebackend-production-5dab.up.railway.app"
 
 const jwt = localStorage.getItem("jwt");
 
